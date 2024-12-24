@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "org.example.ExamplePlugin",
+  "Name": "killeffect",
+  "Version": "${plugin_version}",
+  "Description": "killeffect rusherhack plugin",
+  "Authors": [
+    "SleepyFemboy",
+    "Femey"
+  ],
+  "Minecraft-Versions": [
+    "1.21.1"
+  ]
+}
